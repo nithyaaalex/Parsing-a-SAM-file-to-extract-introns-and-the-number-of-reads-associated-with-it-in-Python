@@ -1,4 +1,5 @@
 Extracting introns and the number of reads associated with them from a SAM file using base Python (no existing libraries used)
+Grade: A2
 
 Input Required:
 1. Standard sam file.
